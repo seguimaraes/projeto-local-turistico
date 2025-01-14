@@ -79,6 +79,13 @@ li {
     font-style: bold;
 }
 
+.containerTres img {
+    width: 100%;
+    height: auto;
+    border-radius: 28px;    
+}
+
+
 #historia{
     color: #0C51A7;
 }
@@ -95,9 +102,15 @@ color: #591B98;
     color: #E95E10;
 }
 
+
 .dividerTres {
     width: 100%;
     height: 1px;
     margin: 64px 0;
     background-color: #d9d9d9;
 }
+
+footer {
+    text-align: center;
+    margin: 65px 0 48px;
+  }
