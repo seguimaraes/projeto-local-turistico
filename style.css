@@ -53,6 +53,7 @@ main p {
 .subtitle{
     font-size: 16px;
     font-style: italic;
+    margin-bottom: 40px;
 }
 
 .divider {
@@ -86,23 +87,27 @@ main p {
 .titulo {
     font-size: 28px;
     text-align: top left;
-    font-weight: bold
+    font-weight: bold;
 }
 
 .history {
     color: #0C51A7;
+    text-align: left;
 }
 
 .couples {
     color: #591B98;
+    text-align: left;
 }
 
 .family {
     color: #E5245E;
+    text-align: left;
 }
 
 .budget {
     color: #E95E10;
+    text-align: left;
 }
 
 footer {
@@ -114,6 +119,10 @@ footer img {
     vertical-align: middle;
     width: 16px;
     height: 16px;
+}
+
+strong {
+    
 }
 /* root {
     margin: 0;
